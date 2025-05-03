@@ -1,1 +1,1 @@
-python bots.py
+python zakaz.py
